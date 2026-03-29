@@ -1,5 +1,7 @@
 # toast-frontend
 
+**Repository:** [abel-tefera/toast-frontend](https://github.com/abel-tefera/toast-frontend)
+
 Frontend application for the Toast platform.
 
 Hello, from Claude Code 🤖
